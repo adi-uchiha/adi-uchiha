@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-<h3>Hacktoberfest Badges</h3>
-[![An image of @adiuchiha's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adiuchiha)](https://holopin.io/@adiuchiha)
-
+<h3>Github Trophies Badges</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adi-uchiha" alt="adi-uchiha" /></a> </p>
+
+<h3>Hacktoberfest Badges</h3>
+<p align="left"> <a href="https://www.holopin.io/@adiuchiha"><img src="https://www.holopin.me/adiuchiha" alt="adi-uchiha" /></a> </p>
 
 - 🔭 I’m currently working on **my GSoC Project**
 
