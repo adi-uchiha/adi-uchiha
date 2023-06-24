@@ -4,8 +4,6 @@
 <h3>Github Trophies Badges</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adi-uchiha" alt="adi-uchiha" /></a> </p>
 
-<img src="./assets/logo.gif" width="560" height="315"/>
-
 <h3>Hacktoberfest Badges</h3>
 <p align="left"> <a href="https://www.holopin.io/@adiuchiha"><img src="https://www.holopin.me/adiuchiha" alt="adi-uchiha" /></a> </p>
 
