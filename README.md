@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aditya </h1>
+<h1 align="center">Hi, I'm Aditya </h1>
 <h3 align="center">FullStack Web-developer from india</h3>
 
 <h3>Github Trophies Badges</h3>
@@ -7,7 +7,7 @@
 <h3>Hacktoberfest Badges</h3>
 <p align="left"> <a href="https://www.holopin.io/@adiuchiha"><img src="https://www.holopin.me/adiuchiha" alt="adi-uchiha" /></a> </p>
 
-- 🔭 I’m currently working on **my GSoC Project**
+- 🔭 I’m currently working on **Next.js**
 
 - 🌱 I’m currently learning **Tensorflow**
 
