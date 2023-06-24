@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya </h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">FullStack Web-developer from india</h3>
 
 <h3>Github Trophies Badges</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adi-uchiha" alt="adi-uchiha" /></a> </p>
