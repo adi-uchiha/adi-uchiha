@@ -3,7 +3,7 @@
 I'm a Full-Stack Engineer and the CTO of [Babycloud](https://babycloud.in). I specialize in building scalable systems and production-ready apps from 0 to 1.
 
 - 🔭 **Currently:** Mastering GoLang & TypeScript and building [Internode](https://github.com/your-handle/internode) (a project management tool for high-output teams).
-- 🏗️ **Previously:** Architected a microservices backend and 3 production apps serving thousands of users.
+- 🏗️ **Previously:** Worked at 3 Startups. Architected a microservices backend and 3 production apps serving thousands of users.
 - ⚡ **Core Stack:** React, Next.js, Node.js, TypeScript, PostgreSQL, and Redis.
 - 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/developer-aditya) or [contact.aditya.dev@gmail.com]
 
