@@ -10,7 +10,7 @@ I'm a Full-Stack Engineer and the CTO of [Babycloud](https://babycloud.in). I sp
 ---
 
 ### Key Projects
-- **[Internode](https://github.com/your-handle/internode):** Technical PM tool.
+- **[Internode](https://github.com/your-handle/internode):** Open source Technical Project Management tool.
 
 <img width="780" height="319" alt="image" src="https://github.com/user-attachments/assets/c12068ae-9abd-4306-9643-9024b9bad7b5" />
 
